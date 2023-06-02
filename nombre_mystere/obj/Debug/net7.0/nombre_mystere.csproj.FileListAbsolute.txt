@@ -1,0 +1,15 @@
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\bin\Debug\net7.0\nombre_mystere.exe
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\bin\Debug\net7.0\nombre_mystere.deps.json
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\bin\Debug\net7.0\nombre_mystere.runtimeconfig.json
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\bin\Debug\net7.0\nombre_mystere.dll
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\bin\Debug\net7.0\nombre_mystere.pdb
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\obj\Debug\net7.0\nombre_mystere.csproj.AssemblyReference.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\obj\Debug\net7.0\nombre_mystere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\obj\Debug\net7.0\nombre_mystere.AssemblyInfoInputs.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\obj\Debug\net7.0\nombre_mystere.AssemblyInfo.cs
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\obj\Debug\net7.0\nombre_mystere.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\obj\Debug\net7.0\nombre_mystere.dll
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\obj\Debug\net7.0\refint\nombre_mystere.dll
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\obj\Debug\net7.0\nombre_mystere.pdb
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\obj\Debug\net7.0\nombre_mystere.genruntimeconfig.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\nombre_mystere\obj\Debug\net7.0\ref\nombre_mystere.dll
