@@ -1,0 +1,15 @@
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\bin\Debug\net7.0\mon-premier-projet.exe
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\bin\Debug\net7.0\mon-premier-projet.deps.json
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\bin\Debug\net7.0\mon-premier-projet.runtimeconfig.json
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\bin\Debug\net7.0\mon-premier-projet.dll
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\bin\Debug\net7.0\mon-premier-projet.pdb
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\obj\Debug\net7.0\mon-premier-projet.csproj.AssemblyReference.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\obj\Debug\net7.0\mon-premier-projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\obj\Debug\net7.0\mon-premier-projet.AssemblyInfoInputs.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\obj\Debug\net7.0\mon-premier-projet.AssemblyInfo.cs
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\obj\Debug\net7.0\mon-premier-projet.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\obj\Debug\net7.0\mon-premier-projet.dll
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\obj\Debug\net7.0\refint\mon-premier-projet.dll
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\obj\Debug\net7.0\mon-premier-projet.pdb
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\obj\Debug\net7.0\mon-premier-projet.genruntimeconfig.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-premier-projet\obj\Debug\net7.0\ref\mon-premier-projet.dll

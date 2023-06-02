@@ -1,0 +1,15 @@
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\bin\Debug\net7.0\exercice_5.exe
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\bin\Debug\net7.0\exercice_5.deps.json
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\bin\Debug\net7.0\exercice_5.runtimeconfig.json
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\bin\Debug\net7.0\exercice_5.dll
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\bin\Debug\net7.0\exercice_5.pdb
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\obj\Debug\net7.0\exercice_5.csproj.AssemblyReference.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\obj\Debug\net7.0\exercice_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\obj\Debug\net7.0\exercice_5.AssemblyInfoInputs.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\obj\Debug\net7.0\exercice_5.AssemblyInfo.cs
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\obj\Debug\net7.0\exercice_5.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\obj\Debug\net7.0\exercice_5.dll
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\obj\Debug\net7.0\refint\exercice_5.dll
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\obj\Debug\net7.0\exercice_5.pdb
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\obj\Debug\net7.0\exercice_5.genruntimeconfig.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\exercice_5\obj\Debug\net7.0\ref\exercice_5.dll

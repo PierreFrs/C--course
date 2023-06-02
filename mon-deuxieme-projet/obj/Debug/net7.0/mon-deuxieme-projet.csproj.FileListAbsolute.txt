@@ -1,0 +1,15 @@
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\bin\Debug\net7.0\mon-deuxieme-projet.exe
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\bin\Debug\net7.0\mon-deuxieme-projet.deps.json
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\bin\Debug\net7.0\mon-deuxieme-projet.runtimeconfig.json
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\bin\Debug\net7.0\mon-deuxieme-projet.dll
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\bin\Debug\net7.0\mon-deuxieme-projet.pdb
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\obj\Debug\net7.0\mon-deuxieme-projet.csproj.AssemblyReference.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\obj\Debug\net7.0\mon-deuxieme-projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\obj\Debug\net7.0\mon-deuxieme-projet.AssemblyInfoInputs.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\obj\Debug\net7.0\mon-deuxieme-projet.AssemblyInfo.cs
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\obj\Debug\net7.0\mon-deuxieme-projet.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\obj\Debug\net7.0\mon-deuxieme-projet.dll
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\obj\Debug\net7.0\refint\mon-deuxieme-projet.dll
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\obj\Debug\net7.0\mon-deuxieme-projet.pdb
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\obj\Debug\net7.0\mon-deuxieme-projet.genruntimeconfig.cache
+C:\Users\Pierre\Documents\Projects\Udemy\C#-course\mon-deuxieme-projet\obj\Debug\net7.0\ref\mon-deuxieme-projet.dll
